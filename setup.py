@@ -15,7 +15,7 @@ setuptools.setup(
         'certifi==2018.11.29',
         'cffi==1.11.5',
         'chardet==3.0.4',
-        'cryptography==2.4.2',
+        'cryptography==3.2',
         'idna==2.7',
         'pycparser==2.19',
         'PyJWT==1.7.1',
