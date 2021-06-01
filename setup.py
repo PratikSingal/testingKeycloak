@@ -22,7 +22,7 @@ setuptools.setup(
         'requests==2.20.1',
         'six==1.11.0',
         'typing==3.5.3.0',
-        'urllib3==1.24.1'
+        'urllib3==1.26.5'
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
